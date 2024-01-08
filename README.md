@@ -1,3 +1,5 @@
+![Website Image](https://github.com/UVA-Google-Developer-Student-Club/Oct18InterestMeeting/blob/main/screenshot.png?raw=true)
+
 ```python
 import requests
 import time
