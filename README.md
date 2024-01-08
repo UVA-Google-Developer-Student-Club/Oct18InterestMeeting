@@ -2,7 +2,7 @@
 
 Initial interest meeting for the GDSC on October 18, 2023 where we had a presentation about the club and then used a HuggingFace model to analyze the emotions of reviews that audience members had of the club.
 
-We used a firebase realtime database to store the results of the analysis and then displayed them on the website shown here:.
+We used a firebase realtime database to store the results of the analysis and then displayed them on the website in realtime:
 
 ![Website Image](https://github.com/UVA-Google-Developer-Student-Club/Oct18InterestMeeting/blob/main/screenshot.png?raw=true)
 
